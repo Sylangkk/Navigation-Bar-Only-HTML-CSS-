@@ -1,0 +1,61 @@
+* {
+    background-color: rgb(41, 41, 41);
+}
+
+.ion-icon {
+    background-color: #888888;
+    color: white;
+    border-radius: 8px;
+    height: 30px;
+    width: 30px;
+}
+
+.ion-icon:hover {
+    background-color: rgb(58, 45, 55);
+}
+
+.nav_bar {
+    position: relative;
+    top: 350px;
+    left: 250px;
+    background-color: #888888;
+    height: 75px;
+    width: 350px;
+    border-radius: 0px 30px 30px 30px;
+}
+
+.button1 {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    border: none;
+    left: 40px;
+    top: 18px;
+    background-color: #888888;
+}
+
+.button1:hover {
+    background-color: rgb(58, 45, 55);
+}
+
+.button2 {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 30px;
+    background-color: #888888;
+    left: 110px;
+    top: 18px;
+}
+
+.button3 {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    border: none;
+    background-color: #888888;
+    left: 170px;
+    top: 18px;
+}
